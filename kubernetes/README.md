@@ -29,7 +29,7 @@ In order to set up the cluster, the contents of this guide should be followed
 in the order listed below.
 - [Prerequisites](docs/01-prerequisites.md)
 - [Provisioning Compute Resources](docs/02-compute-resources.md)
-- [Installing Kubernetes Dependencies](docs/03-kube-dependenceis.md)
+- [Installing Kubernetes Dependencies](docs/03-kube-dependencies.md)
 - [`kube-apiserver` Load Balancer](docs/04-kubeapi-lb.md)
 - [Bootstrapping the Cluster](docs/05-bootstrap-cluster.md)
 - [Ingress Controller and Load Balancer](docs/07-ingress-lb.md)
