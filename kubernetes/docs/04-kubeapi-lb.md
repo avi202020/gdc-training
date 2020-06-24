@@ -12,7 +12,7 @@ changes. The rest is taken care of in the Ansible playbook.
 Review the playbook - `playbooks/nginx-loadbalancer.yaml` - before running.
 
 ```
-ansible-playbooks -i hosts playbooks/nginx-loadbalancer.yaml
+ansible-playbook -i hosts playbooks/nginx-loadbalancer.yaml
 ```
 
 Once installation is complete check to make sure it is configured properly.
